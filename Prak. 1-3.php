@@ -1,3 +1,7 @@
+<!-- Nama  : Novita Nurul Hidayati -->
+<!-- NIM   : 20051397001 -->
+<!-- Prodi : D4 Manajemen Informatika - 2020A -->
+
 <?php
 
 echo "PROGRAM DATA NOVEL DETEKTIF" . "<br>" . "<br>";
