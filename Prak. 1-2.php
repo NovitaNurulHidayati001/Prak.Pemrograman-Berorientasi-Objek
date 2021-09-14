@@ -1,5 +1,5 @@
-nama: muhammad rahulil
-prodi : d4 manajemen informatika
+Nama: Novita Nurul Hidayati
+Prodi : D4 Manajemen Informatika
 
 <!DOCTYPE HTML>  
 <html>
