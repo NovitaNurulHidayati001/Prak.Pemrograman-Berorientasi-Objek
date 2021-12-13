@@ -1,6 +1,3 @@
-<!--- This Page was Developed by Isa Iman Muhammad - 20051397019 --->
-
-
 <!DOCTYPE html>
 <html lang="id">
 <head>
