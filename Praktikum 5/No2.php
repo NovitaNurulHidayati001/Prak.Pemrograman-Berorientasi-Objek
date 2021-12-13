@@ -1,5 +1,3 @@
-<!--- This Page was Developed by Isa Iman Muhammad - 20051397019 --->
-
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -71,11 +69,11 @@ class Bayaran
 	}
 	public static function main($args)
 	{
-		echo "Isa Iman M. - 20051397019"; //Ini diganti
+		echo "Novita Nurul Hidayati - 2005139701";
         echo "<br>";
-		$man = new Manajer("Sarah", 5000000, 500000); //Ini diganti
+		$man = new Manajer("Jihoon", 5000000, 500000);
         echo "<br>", "<br>";
-		$prog = new Programmer("Victor", 4000000, 300000); //Ini diganti
+		$prog = new Programmer("Minhyun", 4000000, 300000);
         echo "<br>", "<br>";
 		$hr = new Bayaran();
 		echo "<br> Gaji untuk Manajer Bernama ". $man->nama." : Rp. ".strval($hr->hitungBayaran($man)) , "\n";
