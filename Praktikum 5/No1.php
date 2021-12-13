@@ -73,12 +73,12 @@ class Soal1
 	public static
 	function main($args)
 	{
-		echo "Isa Iman M. - 20051397019", "\n"; //Ini diganti
+		echo "Novita Nurul Hidayati - 2005139701", "\n";
         echo "<br>", "<br>";
-		$peg1 = new Manajer("Sarah", 5000000); //Ini diganti
+		$peg1 = new Manajer("SeongWoo", 5000000);
 		Soal1::Proses($peg1);
         echo "<br>", "<br>";
-		$peg2 = new Kurir("Joko", 2000000); //Ini diganti
+		$peg2 = new Kurir("Daniel", 2000000);
 		Soal1::Proses($peg2);
 	}
 }
